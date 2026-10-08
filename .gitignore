@@ -1,0 +1,12 @@
+# Large or regenerable files (rebuild them with the scripts)
+data/raw/*.pdf
+data/interim/
+data/processed/
+data/qa/*.png
+
+# Python / OS
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
